@@ -1,0 +1,20 @@
+﻿@model IEnumerable<Entidades.BE_Producto>
+
+
+@using (Html.BeginForm("ListarProductos", "Producto"))
+{
+    foreach (var item in Model)
+    {
+        <div class="bloque">
+            <img class="imgprod" src="@Html.DisplayFor(modelItem => item.imagen)" /><br />
+            <strong>Codigo: </strong> @item.cod_Producto<br />
+            <strong>Descripción: </strong> @item.Des_Producto<br />
+            <strong>Marca : </strong> @item.Marca.nom_Marca<br />
+            <strong>Precio: </strong> @string.Format("{0:N2}", item.precio) <br />
+            <strong>Stock: </strong> @item.stock<br />
+            @*@Html.ActionLink("Select", "Select", new { id = item.idproducto }, new { @class = "btn btn-default" })*@
+        </div>
+    }
+}
+
+

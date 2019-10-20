@@ -1,0 +1,6 @@
+D:\CIBERTEC\VI CICLO\PROYECTO INTEGRADOR\PIT\LoginFacebookGoogle\Entidades\bin\Debug\Entidades.dll
+D:\CIBERTEC\VI CICLO\PROYECTO INTEGRADOR\PIT\LoginFacebookGoogle\Entidades\bin\Debug\Entidades.pdb
+D:\CIBERTEC\VI CICLO\PROYECTO INTEGRADOR\PIT\LoginFacebookGoogle\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+D:\CIBERTEC\VI CICLO\PROYECTO INTEGRADOR\PIT\LoginFacebookGoogle\Entidades\obj\Debug\Entidades.dll
+D:\CIBERTEC\VI CICLO\PROYECTO INTEGRADOR\PIT\LoginFacebookGoogle\Entidades\obj\Debug\Entidades.pdb
+D:\CIBERTEC\VI CICLO\PROYECTO INTEGRADOR\PIT\LoginFacebookGoogle\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache

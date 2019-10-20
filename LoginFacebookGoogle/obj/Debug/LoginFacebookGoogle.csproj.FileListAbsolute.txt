@@ -1,0 +1,238 @@
+C:\Users\n_zav\Desktop\PIT\LoginFacebookGoogle\LoginFacebookGoogle\bin\LoginFacebookGoogle.dll.config
+C:\Users\n_zav\Desktop\PIT\LoginFacebookGoogle\LoginFacebookGoogle\bin\LoginFacebookGoogle.dll
+C:\Users\n_zav\Desktop\PIT\LoginFacebookGoogle\LoginFacebookGoogle\bin\LoginFacebookGoogle.pdb
+C:\Users\n_zav\Desktop\PIT\LoginFacebookGoogle\LoginFacebookGoogle\bin\roslyn\csc.exe
+C:\Users\n_zav\Desktop\PIT\LoginFacebookGoogle\LoginFacebookGoogle\bin\roslyn\csc.exe.config
+C:\Users\n_zav\Desktop\PIT\LoginFacebookGoogle\LoginFacebookGoogle\bin\roslyn\csc.rsp
+C:\Users\n_zav\Desktop\PIT\LoginFacebookGoogle\LoginFacebookGoogle\bin\roslyn\csi.exe
+C:\Users\n_zav\Desktop\PIT\LoginFacebookGoogle\LoginFacebookGoogle\bin\roslyn\csi.exe.config
+C:\Users\n_zav\Desktop\PIT\LoginFacebookGoogle\LoginFacebookGoogle\bin\roslyn\csi.rsp
+C:\Users\n_zav\Desktop\PIT\LoginFacebookGoogle\LoginFacebookGoogle\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\n_zav\Desktop\PIT\LoginFacebookGoogle\LoginFacebookGoogle\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\n_zav\Desktop\PIT\LoginFacebookGoogle\LoginFacebookGoogle\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\n_zav\Desktop\PIT\LoginFacebookGoogle\LoginFacebookGoogle\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\n_zav\Desktop\PIT\LoginFacebookGoogle\LoginFacebookGoogle\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\n_zav\Desktop\PIT\LoginFacebookGoogle\LoginFacebookGoogle\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\n_zav\Desktop\PIT\LoginFacebookGoogle\LoginFacebookGoogle\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\n_zav\Desktop\PIT\LoginFacebookGoogle\LoginFacebookGoogle\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\n_zav\Desktop\PIT\LoginFacebookGoogle\LoginFacebookGoogle\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\n_zav\Desktop\PIT\LoginFacebookGoogle\LoginFacebookGoogle\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\n_zav\Desktop\PIT\LoginFacebookGoogle\LoginFacebookGoogle\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\n_zav\Desktop\PIT\LoginFacebookGoogle\LoginFacebookGoogle\bin\roslyn\System.AppContext.dll
+C:\Users\n_zav\Desktop\PIT\LoginFacebookGoogle\LoginFacebookGoogle\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\n_zav\Desktop\PIT\LoginFacebookGoogle\LoginFacebookGoogle\bin\roslyn\System.Console.dll
+C:\Users\n_zav\Desktop\PIT\LoginFacebookGoogle\LoginFacebookGoogle\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\n_zav\Desktop\PIT\LoginFacebookGoogle\LoginFacebookGoogle\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\n_zav\Desktop\PIT\LoginFacebookGoogle\LoginFacebookGoogle\bin\roslyn\System.IO.Compression.dll
+C:\Users\n_zav\Desktop\PIT\LoginFacebookGoogle\LoginFacebookGoogle\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\n_zav\Desktop\PIT\LoginFacebookGoogle\LoginFacebookGoogle\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\n_zav\Desktop\PIT\LoginFacebookGoogle\LoginFacebookGoogle\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\n_zav\Desktop\PIT\LoginFacebookGoogle\LoginFacebookGoogle\bin\roslyn\System.IO.Pipes.dll
+C:\Users\n_zav\Desktop\PIT\LoginFacebookGoogle\LoginFacebookGoogle\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\n_zav\Desktop\PIT\LoginFacebookGoogle\LoginFacebookGoogle\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\n_zav\Desktop\PIT\LoginFacebookGoogle\LoginFacebookGoogle\bin\roslyn\System.Security.Claims.dll
+C:\Users\n_zav\Desktop\PIT\LoginFacebookGoogle\LoginFacebookGoogle\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\n_zav\Desktop\PIT\LoginFacebookGoogle\LoginFacebookGoogle\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\n_zav\Desktop\PIT\LoginFacebookGoogle\LoginFacebookGoogle\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\n_zav\Desktop\PIT\LoginFacebookGoogle\LoginFacebookGoogle\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\n_zav\Desktop\PIT\LoginFacebookGoogle\LoginFacebookGoogle\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\n_zav\Desktop\PIT\LoginFacebookGoogle\LoginFacebookGoogle\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\n_zav\Desktop\PIT\LoginFacebookGoogle\LoginFacebookGoogle\bin\roslyn\System.ValueTuple.dll
+C:\Users\n_zav\Desktop\PIT\LoginFacebookGoogle\LoginFacebookGoogle\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\n_zav\Desktop\PIT\LoginFacebookGoogle\LoginFacebookGoogle\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\n_zav\Desktop\PIT\LoginFacebookGoogle\LoginFacebookGoogle\bin\roslyn\System.Xml.XPath.dll
+C:\Users\n_zav\Desktop\PIT\LoginFacebookGoogle\LoginFacebookGoogle\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\n_zav\Desktop\PIT\LoginFacebookGoogle\LoginFacebookGoogle\bin\roslyn\vbc.exe
+C:\Users\n_zav\Desktop\PIT\LoginFacebookGoogle\LoginFacebookGoogle\bin\roslyn\vbc.exe.config
+C:\Users\n_zav\Desktop\PIT\LoginFacebookGoogle\LoginFacebookGoogle\bin\roslyn\vbc.rsp
+C:\Users\n_zav\Desktop\PIT\LoginFacebookGoogle\LoginFacebookGoogle\bin\roslyn\VBCSCompiler.exe
+C:\Users\n_zav\Desktop\PIT\LoginFacebookGoogle\LoginFacebookGoogle\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\n_zav\Desktop\PIT\LoginFacebookGoogle\LoginFacebookGoogle\bin\Antlr3.Runtime.dll
+C:\Users\n_zav\Desktop\PIT\LoginFacebookGoogle\LoginFacebookGoogle\bin\EntityFramework.dll
+C:\Users\n_zav\Desktop\PIT\LoginFacebookGoogle\LoginFacebookGoogle\bin\EntityFramework.SqlServer.dll
+C:\Users\n_zav\Desktop\PIT\LoginFacebookGoogle\LoginFacebookGoogle\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\n_zav\Desktop\PIT\LoginFacebookGoogle\LoginFacebookGoogle\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\n_zav\Desktop\PIT\LoginFacebookGoogle\LoginFacebookGoogle\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\n_zav\Desktop\PIT\LoginFacebookGoogle\LoginFacebookGoogle\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\n_zav\Desktop\PIT\LoginFacebookGoogle\LoginFacebookGoogle\bin\Microsoft.Owin.dll
+C:\Users\n_zav\Desktop\PIT\LoginFacebookGoogle\LoginFacebookGoogle\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\n_zav\Desktop\PIT\LoginFacebookGoogle\LoginFacebookGoogle\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\n_zav\Desktop\PIT\LoginFacebookGoogle\LoginFacebookGoogle\bin\Microsoft.Owin.Security.dll
+C:\Users\n_zav\Desktop\PIT\LoginFacebookGoogle\LoginFacebookGoogle\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\n_zav\Desktop\PIT\LoginFacebookGoogle\LoginFacebookGoogle\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\n_zav\Desktop\PIT\LoginFacebookGoogle\LoginFacebookGoogle\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\n_zav\Desktop\PIT\LoginFacebookGoogle\LoginFacebookGoogle\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\n_zav\Desktop\PIT\LoginFacebookGoogle\LoginFacebookGoogle\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\n_zav\Desktop\PIT\LoginFacebookGoogle\LoginFacebookGoogle\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\n_zav\Desktop\PIT\LoginFacebookGoogle\LoginFacebookGoogle\bin\Newtonsoft.Json.dll
+C:\Users\n_zav\Desktop\PIT\LoginFacebookGoogle\LoginFacebookGoogle\bin\Owin.dll
+C:\Users\n_zav\Desktop\PIT\LoginFacebookGoogle\LoginFacebookGoogle\bin\System.Web.Helpers.dll
+C:\Users\n_zav\Desktop\PIT\LoginFacebookGoogle\LoginFacebookGoogle\bin\System.Web.Mvc.dll
+C:\Users\n_zav\Desktop\PIT\LoginFacebookGoogle\LoginFacebookGoogle\bin\System.Web.Optimization.dll
+C:\Users\n_zav\Desktop\PIT\LoginFacebookGoogle\LoginFacebookGoogle\bin\System.Web.Razor.dll
+C:\Users\n_zav\Desktop\PIT\LoginFacebookGoogle\LoginFacebookGoogle\bin\System.Web.WebPages.Deployment.dll
+C:\Users\n_zav\Desktop\PIT\LoginFacebookGoogle\LoginFacebookGoogle\bin\System.Web.WebPages.dll
+C:\Users\n_zav\Desktop\PIT\LoginFacebookGoogle\LoginFacebookGoogle\bin\System.Web.WebPages.Razor.dll
+C:\Users\n_zav\Desktop\PIT\LoginFacebookGoogle\LoginFacebookGoogle\bin\WebGrease.dll
+C:\Users\n_zav\Desktop\PIT\LoginFacebookGoogle\LoginFacebookGoogle\bin\System.Web.Helpers.xml
+C:\Users\n_zav\Desktop\PIT\LoginFacebookGoogle\LoginFacebookGoogle\bin\System.Web.Mvc.xml
+C:\Users\n_zav\Desktop\PIT\LoginFacebookGoogle\LoginFacebookGoogle\bin\System.Web.Optimization.xml
+C:\Users\n_zav\Desktop\PIT\LoginFacebookGoogle\LoginFacebookGoogle\bin\System.Web.Razor.xml
+C:\Users\n_zav\Desktop\PIT\LoginFacebookGoogle\LoginFacebookGoogle\bin\System.Web.WebPages.xml
+C:\Users\n_zav\Desktop\PIT\LoginFacebookGoogle\LoginFacebookGoogle\bin\System.Web.WebPages.Deployment.xml
+C:\Users\n_zav\Desktop\PIT\LoginFacebookGoogle\LoginFacebookGoogle\bin\System.Web.WebPages.Razor.xml
+C:\Users\n_zav\Desktop\PIT\LoginFacebookGoogle\LoginFacebookGoogle\bin\Newtonsoft.Json.xml
+C:\Users\n_zav\Desktop\PIT\LoginFacebookGoogle\LoginFacebookGoogle\bin\Antlr3.Runtime.pdb
+C:\Users\n_zav\Desktop\PIT\LoginFacebookGoogle\LoginFacebookGoogle\bin\EntityFramework.xml
+C:\Users\n_zav\Desktop\PIT\LoginFacebookGoogle\LoginFacebookGoogle\bin\EntityFramework.SqlServer.xml
+C:\Users\n_zav\Desktop\PIT\LoginFacebookGoogle\LoginFacebookGoogle\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\n_zav\Desktop\PIT\LoginFacebookGoogle\LoginFacebookGoogle\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\n_zav\Desktop\PIT\LoginFacebookGoogle\LoginFacebookGoogle\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\n_zav\Desktop\PIT\LoginFacebookGoogle\LoginFacebookGoogle\bin\Microsoft.Owin.xml
+C:\Users\n_zav\Desktop\PIT\LoginFacebookGoogle\LoginFacebookGoogle\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\n_zav\Desktop\PIT\LoginFacebookGoogle\LoginFacebookGoogle\bin\Microsoft.Owin.Security.xml
+C:\Users\n_zav\Desktop\PIT\LoginFacebookGoogle\LoginFacebookGoogle\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\n_zav\Desktop\PIT\LoginFacebookGoogle\LoginFacebookGoogle\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\n_zav\Desktop\PIT\LoginFacebookGoogle\LoginFacebookGoogle\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\n_zav\Desktop\PIT\LoginFacebookGoogle\LoginFacebookGoogle\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\n_zav\Desktop\PIT\LoginFacebookGoogle\LoginFacebookGoogle\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\n_zav\Desktop\PIT\LoginFacebookGoogle\LoginFacebookGoogle\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\n_zav\Desktop\PIT\LoginFacebookGoogle\LoginFacebookGoogle\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\n_zav\Desktop\PIT\LoginFacebookGoogle\LoginFacebookGoogle\bin\es\System.Web.Helpers.resources.dll
+C:\Users\n_zav\Desktop\PIT\LoginFacebookGoogle\LoginFacebookGoogle\bin\es\System.Web.Mvc.resources.dll
+C:\Users\n_zav\Desktop\PIT\LoginFacebookGoogle\LoginFacebookGoogle\bin\es\System.Web.Optimization.resources.dll
+C:\Users\n_zav\Desktop\PIT\LoginFacebookGoogle\LoginFacebookGoogle\bin\es\System.Web.Razor.resources.dll
+C:\Users\n_zav\Desktop\PIT\LoginFacebookGoogle\LoginFacebookGoogle\bin\es\System.Web.WebPages.resources.dll
+C:\Users\n_zav\Desktop\PIT\LoginFacebookGoogle\LoginFacebookGoogle\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\n_zav\Desktop\PIT\LoginFacebookGoogle\LoginFacebookGoogle\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\n_zav\Desktop\PIT\LoginFacebookGoogle\LoginFacebookGoogle\bin\es\EntityFramework.resources.dll
+C:\Users\n_zav\Desktop\PIT\LoginFacebookGoogle\LoginFacebookGoogle\bin\es\EntityFramework.SqlServer.resources.dll
+C:\Users\n_zav\Desktop\PIT\LoginFacebookGoogle\LoginFacebookGoogle\bin\es\Microsoft.AspNet.Identity.Core.resources.dll
+C:\Users\n_zav\Desktop\PIT\LoginFacebookGoogle\LoginFacebookGoogle\bin\es\Microsoft.AspNet.Identity.Owin.resources.dll
+C:\Users\n_zav\Desktop\PIT\LoginFacebookGoogle\LoginFacebookGoogle\bin\es\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+C:\Users\n_zav\Desktop\PIT\LoginFacebookGoogle\LoginFacebookGoogle\obj\Debug\LoginFacebookGoogle.csprojAssemblyReference.cache
+C:\Users\n_zav\Desktop\PIT\LoginFacebookGoogle\LoginFacebookGoogle\obj\Debug\LoginFacebookGoogle.csproj.CoreCompileInputs.cache
+C:\Users\n_zav\Desktop\PIT\LoginFacebookGoogle\LoginFacebookGoogle\obj\Debug\LoginFacebookGoogle.csproj.CopyComplete
+C:\Users\n_zav\Desktop\PIT\LoginFacebookGoogle\LoginFacebookGoogle\obj\Debug\LoginFacebookGoogle.dll
+C:\Users\n_zav\Desktop\PIT\LoginFacebookGoogle\LoginFacebookGoogle\obj\Debug\LoginFacebookGoogle.pdb
+D:\CIBERTEC\VI CICLO\PROYECTO INTEGRADOR\PIT\LoginFacebookGoogle\LoginFacebookGoogle\bin\LoginFacebookGoogle.dll.config
+D:\CIBERTEC\VI CICLO\PROYECTO INTEGRADOR\PIT\LoginFacebookGoogle\LoginFacebookGoogle\bin\LoginFacebookGoogle.dll
+D:\CIBERTEC\VI CICLO\PROYECTO INTEGRADOR\PIT\LoginFacebookGoogle\LoginFacebookGoogle\bin\LoginFacebookGoogle.pdb
+D:\CIBERTEC\VI CICLO\PROYECTO INTEGRADOR\PIT\LoginFacebookGoogle\LoginFacebookGoogle\bin\roslyn\csc.exe
+D:\CIBERTEC\VI CICLO\PROYECTO INTEGRADOR\PIT\LoginFacebookGoogle\LoginFacebookGoogle\bin\roslyn\csc.exe.config
+D:\CIBERTEC\VI CICLO\PROYECTO INTEGRADOR\PIT\LoginFacebookGoogle\LoginFacebookGoogle\bin\roslyn\csc.rsp
+D:\CIBERTEC\VI CICLO\PROYECTO INTEGRADOR\PIT\LoginFacebookGoogle\LoginFacebookGoogle\bin\roslyn\csi.exe
+D:\CIBERTEC\VI CICLO\PROYECTO INTEGRADOR\PIT\LoginFacebookGoogle\LoginFacebookGoogle\bin\roslyn\csi.exe.config
+D:\CIBERTEC\VI CICLO\PROYECTO INTEGRADOR\PIT\LoginFacebookGoogle\LoginFacebookGoogle\bin\roslyn\csi.rsp
+D:\CIBERTEC\VI CICLO\PROYECTO INTEGRADOR\PIT\LoginFacebookGoogle\LoginFacebookGoogle\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\CIBERTEC\VI CICLO\PROYECTO INTEGRADOR\PIT\LoginFacebookGoogle\LoginFacebookGoogle\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\CIBERTEC\VI CICLO\PROYECTO INTEGRADOR\PIT\LoginFacebookGoogle\LoginFacebookGoogle\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\CIBERTEC\VI CICLO\PROYECTO INTEGRADOR\PIT\LoginFacebookGoogle\LoginFacebookGoogle\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\CIBERTEC\VI CICLO\PROYECTO INTEGRADOR\PIT\LoginFacebookGoogle\LoginFacebookGoogle\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\CIBERTEC\VI CICLO\PROYECTO INTEGRADOR\PIT\LoginFacebookGoogle\LoginFacebookGoogle\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\CIBERTEC\VI CICLO\PROYECTO INTEGRADOR\PIT\LoginFacebookGoogle\LoginFacebookGoogle\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\CIBERTEC\VI CICLO\PROYECTO INTEGRADOR\PIT\LoginFacebookGoogle\LoginFacebookGoogle\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\CIBERTEC\VI CICLO\PROYECTO INTEGRADOR\PIT\LoginFacebookGoogle\LoginFacebookGoogle\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\CIBERTEC\VI CICLO\PROYECTO INTEGRADOR\PIT\LoginFacebookGoogle\LoginFacebookGoogle\bin\roslyn\Microsoft.Managed.Core.targets
+D:\CIBERTEC\VI CICLO\PROYECTO INTEGRADOR\PIT\LoginFacebookGoogle\LoginFacebookGoogle\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\CIBERTEC\VI CICLO\PROYECTO INTEGRADOR\PIT\LoginFacebookGoogle\LoginFacebookGoogle\bin\roslyn\System.AppContext.dll
+D:\CIBERTEC\VI CICLO\PROYECTO INTEGRADOR\PIT\LoginFacebookGoogle\LoginFacebookGoogle\bin\roslyn\System.Collections.Immutable.dll
+D:\CIBERTEC\VI CICLO\PROYECTO INTEGRADOR\PIT\LoginFacebookGoogle\LoginFacebookGoogle\bin\roslyn\System.Console.dll
+D:\CIBERTEC\VI CICLO\PROYECTO INTEGRADOR\PIT\LoginFacebookGoogle\LoginFacebookGoogle\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\CIBERTEC\VI CICLO\PROYECTO INTEGRADOR\PIT\LoginFacebookGoogle\LoginFacebookGoogle\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\CIBERTEC\VI CICLO\PROYECTO INTEGRADOR\PIT\LoginFacebookGoogle\LoginFacebookGoogle\bin\roslyn\System.IO.Compression.dll
+D:\CIBERTEC\VI CICLO\PROYECTO INTEGRADOR\PIT\LoginFacebookGoogle\LoginFacebookGoogle\bin\roslyn\System.IO.FileSystem.dll
+D:\CIBERTEC\VI CICLO\PROYECTO INTEGRADOR\PIT\LoginFacebookGoogle\LoginFacebookGoogle\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\CIBERTEC\VI CICLO\PROYECTO INTEGRADOR\PIT\LoginFacebookGoogle\LoginFacebookGoogle\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\CIBERTEC\VI CICLO\PROYECTO INTEGRADOR\PIT\LoginFacebookGoogle\LoginFacebookGoogle\bin\roslyn\System.IO.Pipes.dll
+D:\CIBERTEC\VI CICLO\PROYECTO INTEGRADOR\PIT\LoginFacebookGoogle\LoginFacebookGoogle\bin\roslyn\System.Reflection.Metadata.dll
+D:\CIBERTEC\VI CICLO\PROYECTO INTEGRADOR\PIT\LoginFacebookGoogle\LoginFacebookGoogle\bin\roslyn\System.Security.AccessControl.dll
+D:\CIBERTEC\VI CICLO\PROYECTO INTEGRADOR\PIT\LoginFacebookGoogle\LoginFacebookGoogle\bin\roslyn\System.Security.Claims.dll
+D:\CIBERTEC\VI CICLO\PROYECTO INTEGRADOR\PIT\LoginFacebookGoogle\LoginFacebookGoogle\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\CIBERTEC\VI CICLO\PROYECTO INTEGRADOR\PIT\LoginFacebookGoogle\LoginFacebookGoogle\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\CIBERTEC\VI CICLO\PROYECTO INTEGRADOR\PIT\LoginFacebookGoogle\LoginFacebookGoogle\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\CIBERTEC\VI CICLO\PROYECTO INTEGRADOR\PIT\LoginFacebookGoogle\LoginFacebookGoogle\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\CIBERTEC\VI CICLO\PROYECTO INTEGRADOR\PIT\LoginFacebookGoogle\LoginFacebookGoogle\bin\roslyn\System.Security.Principal.Windows.dll
+D:\CIBERTEC\VI CICLO\PROYECTO INTEGRADOR\PIT\LoginFacebookGoogle\LoginFacebookGoogle\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\CIBERTEC\VI CICLO\PROYECTO INTEGRADOR\PIT\LoginFacebookGoogle\LoginFacebookGoogle\bin\roslyn\System.ValueTuple.dll
+D:\CIBERTEC\VI CICLO\PROYECTO INTEGRADOR\PIT\LoginFacebookGoogle\LoginFacebookGoogle\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\CIBERTEC\VI CICLO\PROYECTO INTEGRADOR\PIT\LoginFacebookGoogle\LoginFacebookGoogle\bin\roslyn\System.Xml.XmlDocument.dll
+D:\CIBERTEC\VI CICLO\PROYECTO INTEGRADOR\PIT\LoginFacebookGoogle\LoginFacebookGoogle\bin\roslyn\System.Xml.XPath.dll
+D:\CIBERTEC\VI CICLO\PROYECTO INTEGRADOR\PIT\LoginFacebookGoogle\LoginFacebookGoogle\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\CIBERTEC\VI CICLO\PROYECTO INTEGRADOR\PIT\LoginFacebookGoogle\LoginFacebookGoogle\bin\roslyn\vbc.exe
+D:\CIBERTEC\VI CICLO\PROYECTO INTEGRADOR\PIT\LoginFacebookGoogle\LoginFacebookGoogle\bin\roslyn\vbc.exe.config
+D:\CIBERTEC\VI CICLO\PROYECTO INTEGRADOR\PIT\LoginFacebookGoogle\LoginFacebookGoogle\bin\roslyn\vbc.rsp
+D:\CIBERTEC\VI CICLO\PROYECTO INTEGRADOR\PIT\LoginFacebookGoogle\LoginFacebookGoogle\bin\roslyn\VBCSCompiler.exe
+D:\CIBERTEC\VI CICLO\PROYECTO INTEGRADOR\PIT\LoginFacebookGoogle\LoginFacebookGoogle\bin\roslyn\VBCSCompiler.exe.config
+D:\CIBERTEC\VI CICLO\PROYECTO INTEGRADOR\PIT\LoginFacebookGoogle\LoginFacebookGoogle\bin\Antlr3.Runtime.dll
+D:\CIBERTEC\VI CICLO\PROYECTO INTEGRADOR\PIT\LoginFacebookGoogle\LoginFacebookGoogle\bin\EntityFramework.dll
+D:\CIBERTEC\VI CICLO\PROYECTO INTEGRADOR\PIT\LoginFacebookGoogle\LoginFacebookGoogle\bin\EntityFramework.SqlServer.dll
+D:\CIBERTEC\VI CICLO\PROYECTO INTEGRADOR\PIT\LoginFacebookGoogle\LoginFacebookGoogle\bin\Microsoft.AspNet.Identity.Core.dll
+D:\CIBERTEC\VI CICLO\PROYECTO INTEGRADOR\PIT\LoginFacebookGoogle\LoginFacebookGoogle\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\CIBERTEC\VI CICLO\PROYECTO INTEGRADOR\PIT\LoginFacebookGoogle\LoginFacebookGoogle\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\CIBERTEC\VI CICLO\PROYECTO INTEGRADOR\PIT\LoginFacebookGoogle\LoginFacebookGoogle\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\CIBERTEC\VI CICLO\PROYECTO INTEGRADOR\PIT\LoginFacebookGoogle\LoginFacebookGoogle\bin\Microsoft.Owin.dll
+D:\CIBERTEC\VI CICLO\PROYECTO INTEGRADOR\PIT\LoginFacebookGoogle\LoginFacebookGoogle\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\CIBERTEC\VI CICLO\PROYECTO INTEGRADOR\PIT\LoginFacebookGoogle\LoginFacebookGoogle\bin\Microsoft.Owin.Security.Cookies.dll
+D:\CIBERTEC\VI CICLO\PROYECTO INTEGRADOR\PIT\LoginFacebookGoogle\LoginFacebookGoogle\bin\Microsoft.Owin.Security.dll
+D:\CIBERTEC\VI CICLO\PROYECTO INTEGRADOR\PIT\LoginFacebookGoogle\LoginFacebookGoogle\bin\Microsoft.Owin.Security.Facebook.dll
+D:\CIBERTEC\VI CICLO\PROYECTO INTEGRADOR\PIT\LoginFacebookGoogle\LoginFacebookGoogle\bin\Microsoft.Owin.Security.Google.dll
+D:\CIBERTEC\VI CICLO\PROYECTO INTEGRADOR\PIT\LoginFacebookGoogle\LoginFacebookGoogle\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\CIBERTEC\VI CICLO\PROYECTO INTEGRADOR\PIT\LoginFacebookGoogle\LoginFacebookGoogle\bin\Microsoft.Owin.Security.OAuth.dll
+D:\CIBERTEC\VI CICLO\PROYECTO INTEGRADOR\PIT\LoginFacebookGoogle\LoginFacebookGoogle\bin\Microsoft.Owin.Security.Twitter.dll
+D:\CIBERTEC\VI CICLO\PROYECTO INTEGRADOR\PIT\LoginFacebookGoogle\LoginFacebookGoogle\bin\Microsoft.Web.Infrastructure.dll
+D:\CIBERTEC\VI CICLO\PROYECTO INTEGRADOR\PIT\LoginFacebookGoogle\LoginFacebookGoogle\bin\Newtonsoft.Json.dll
+D:\CIBERTEC\VI CICLO\PROYECTO INTEGRADOR\PIT\LoginFacebookGoogle\LoginFacebookGoogle\bin\Owin.dll
+D:\CIBERTEC\VI CICLO\PROYECTO INTEGRADOR\PIT\LoginFacebookGoogle\LoginFacebookGoogle\bin\System.Web.Helpers.dll
+D:\CIBERTEC\VI CICLO\PROYECTO INTEGRADOR\PIT\LoginFacebookGoogle\LoginFacebookGoogle\bin\System.Web.Mvc.dll
+D:\CIBERTEC\VI CICLO\PROYECTO INTEGRADOR\PIT\LoginFacebookGoogle\LoginFacebookGoogle\bin\System.Web.Optimization.dll
+D:\CIBERTEC\VI CICLO\PROYECTO INTEGRADOR\PIT\LoginFacebookGoogle\LoginFacebookGoogle\bin\System.Web.Razor.dll
+D:\CIBERTEC\VI CICLO\PROYECTO INTEGRADOR\PIT\LoginFacebookGoogle\LoginFacebookGoogle\bin\System.Web.WebPages.Deployment.dll
+D:\CIBERTEC\VI CICLO\PROYECTO INTEGRADOR\PIT\LoginFacebookGoogle\LoginFacebookGoogle\bin\System.Web.WebPages.dll
+D:\CIBERTEC\VI CICLO\PROYECTO INTEGRADOR\PIT\LoginFacebookGoogle\LoginFacebookGoogle\bin\System.Web.WebPages.Razor.dll
+D:\CIBERTEC\VI CICLO\PROYECTO INTEGRADOR\PIT\LoginFacebookGoogle\LoginFacebookGoogle\bin\WebGrease.dll
+D:\CIBERTEC\VI CICLO\PROYECTO INTEGRADOR\PIT\LoginFacebookGoogle\LoginFacebookGoogle\bin\System.Web.Helpers.xml
+D:\CIBERTEC\VI CICLO\PROYECTO INTEGRADOR\PIT\LoginFacebookGoogle\LoginFacebookGoogle\bin\System.Web.Mvc.xml
+D:\CIBERTEC\VI CICLO\PROYECTO INTEGRADOR\PIT\LoginFacebookGoogle\LoginFacebookGoogle\bin\System.Web.Optimization.xml
+D:\CIBERTEC\VI CICLO\PROYECTO INTEGRADOR\PIT\LoginFacebookGoogle\LoginFacebookGoogle\bin\System.Web.Razor.xml
+D:\CIBERTEC\VI CICLO\PROYECTO INTEGRADOR\PIT\LoginFacebookGoogle\LoginFacebookGoogle\bin\System.Web.WebPages.xml
+D:\CIBERTEC\VI CICLO\PROYECTO INTEGRADOR\PIT\LoginFacebookGoogle\LoginFacebookGoogle\bin\System.Web.WebPages.Deployment.xml
+D:\CIBERTEC\VI CICLO\PROYECTO INTEGRADOR\PIT\LoginFacebookGoogle\LoginFacebookGoogle\bin\System.Web.WebPages.Razor.xml
+D:\CIBERTEC\VI CICLO\PROYECTO INTEGRADOR\PIT\LoginFacebookGoogle\LoginFacebookGoogle\bin\Newtonsoft.Json.xml
+D:\CIBERTEC\VI CICLO\PROYECTO INTEGRADOR\PIT\LoginFacebookGoogle\LoginFacebookGoogle\bin\Antlr3.Runtime.pdb
+D:\CIBERTEC\VI CICLO\PROYECTO INTEGRADOR\PIT\LoginFacebookGoogle\LoginFacebookGoogle\bin\EntityFramework.xml
+D:\CIBERTEC\VI CICLO\PROYECTO INTEGRADOR\PIT\LoginFacebookGoogle\LoginFacebookGoogle\bin\EntityFramework.SqlServer.xml
+D:\CIBERTEC\VI CICLO\PROYECTO INTEGRADOR\PIT\LoginFacebookGoogle\LoginFacebookGoogle\bin\Microsoft.AspNet.Identity.Core.xml
+D:\CIBERTEC\VI CICLO\PROYECTO INTEGRADOR\PIT\LoginFacebookGoogle\LoginFacebookGoogle\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\CIBERTEC\VI CICLO\PROYECTO INTEGRADOR\PIT\LoginFacebookGoogle\LoginFacebookGoogle\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\CIBERTEC\VI CICLO\PROYECTO INTEGRADOR\PIT\LoginFacebookGoogle\LoginFacebookGoogle\bin\Microsoft.Owin.xml
+D:\CIBERTEC\VI CICLO\PROYECTO INTEGRADOR\PIT\LoginFacebookGoogle\LoginFacebookGoogle\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\CIBERTEC\VI CICLO\PROYECTO INTEGRADOR\PIT\LoginFacebookGoogle\LoginFacebookGoogle\bin\Microsoft.Owin.Security.xml
+D:\CIBERTEC\VI CICLO\PROYECTO INTEGRADOR\PIT\LoginFacebookGoogle\LoginFacebookGoogle\bin\Microsoft.Owin.Security.Facebook.xml
+D:\CIBERTEC\VI CICLO\PROYECTO INTEGRADOR\PIT\LoginFacebookGoogle\LoginFacebookGoogle\bin\Microsoft.Owin.Security.Cookies.xml
+D:\CIBERTEC\VI CICLO\PROYECTO INTEGRADOR\PIT\LoginFacebookGoogle\LoginFacebookGoogle\bin\Microsoft.Owin.Security.Google.xml
+D:\CIBERTEC\VI CICLO\PROYECTO INTEGRADOR\PIT\LoginFacebookGoogle\LoginFacebookGoogle\bin\Microsoft.Owin.Security.Twitter.xml
+D:\CIBERTEC\VI CICLO\PROYECTO INTEGRADOR\PIT\LoginFacebookGoogle\LoginFacebookGoogle\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\CIBERTEC\VI CICLO\PROYECTO INTEGRADOR\PIT\LoginFacebookGoogle\LoginFacebookGoogle\bin\Microsoft.Owin.Security.OAuth.xml
+D:\CIBERTEC\VI CICLO\PROYECTO INTEGRADOR\PIT\LoginFacebookGoogle\LoginFacebookGoogle\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\CIBERTEC\VI CICLO\PROYECTO INTEGRADOR\PIT\LoginFacebookGoogle\LoginFacebookGoogle\bin\es\System.Web.Helpers.resources.dll
+D:\CIBERTEC\VI CICLO\PROYECTO INTEGRADOR\PIT\LoginFacebookGoogle\LoginFacebookGoogle\bin\es\System.Web.Mvc.resources.dll
+D:\CIBERTEC\VI CICLO\PROYECTO INTEGRADOR\PIT\LoginFacebookGoogle\LoginFacebookGoogle\bin\es\System.Web.Optimization.resources.dll
+D:\CIBERTEC\VI CICLO\PROYECTO INTEGRADOR\PIT\LoginFacebookGoogle\LoginFacebookGoogle\bin\es\System.Web.Razor.resources.dll
+D:\CIBERTEC\VI CICLO\PROYECTO INTEGRADOR\PIT\LoginFacebookGoogle\LoginFacebookGoogle\bin\es\System.Web.WebPages.resources.dll
+D:\CIBERTEC\VI CICLO\PROYECTO INTEGRADOR\PIT\LoginFacebookGoogle\LoginFacebookGoogle\bin\es\System.Web.WebPages.Deployment.resources.dll
+D:\CIBERTEC\VI CICLO\PROYECTO INTEGRADOR\PIT\LoginFacebookGoogle\LoginFacebookGoogle\bin\es\System.Web.WebPages.Razor.resources.dll
+D:\CIBERTEC\VI CICLO\PROYECTO INTEGRADOR\PIT\LoginFacebookGoogle\LoginFacebookGoogle\bin\es\EntityFramework.resources.dll
+D:\CIBERTEC\VI CICLO\PROYECTO INTEGRADOR\PIT\LoginFacebookGoogle\LoginFacebookGoogle\bin\es\EntityFramework.SqlServer.resources.dll
+D:\CIBERTEC\VI CICLO\PROYECTO INTEGRADOR\PIT\LoginFacebookGoogle\LoginFacebookGoogle\bin\es\Microsoft.AspNet.Identity.Core.resources.dll
+D:\CIBERTEC\VI CICLO\PROYECTO INTEGRADOR\PIT\LoginFacebookGoogle\LoginFacebookGoogle\bin\es\Microsoft.AspNet.Identity.Owin.resources.dll
+D:\CIBERTEC\VI CICLO\PROYECTO INTEGRADOR\PIT\LoginFacebookGoogle\LoginFacebookGoogle\bin\es\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+D:\CIBERTEC\VI CICLO\PROYECTO INTEGRADOR\PIT\LoginFacebookGoogle\LoginFacebookGoogle\obj\Debug\LoginFacebookGoogle.csprojAssemblyReference.cache
+D:\CIBERTEC\VI CICLO\PROYECTO INTEGRADOR\PIT\LoginFacebookGoogle\LoginFacebookGoogle\obj\Debug\LoginFacebookGoogle.csproj.CoreCompileInputs.cache
+D:\CIBERTEC\VI CICLO\PROYECTO INTEGRADOR\PIT\LoginFacebookGoogle\LoginFacebookGoogle\obj\Debug\LoginFacebookGoogle.csproj.CopyComplete
+D:\CIBERTEC\VI CICLO\PROYECTO INTEGRADOR\PIT\LoginFacebookGoogle\LoginFacebookGoogle\obj\Debug\LoginFacebookGoogle.dll
+D:\CIBERTEC\VI CICLO\PROYECTO INTEGRADOR\PIT\LoginFacebookGoogle\LoginFacebookGoogle\obj\Debug\LoginFacebookGoogle.pdb
+D:\CIBERTEC\VI CICLO\PROYECTO INTEGRADOR\PIT\LoginFacebookGoogle\LoginFacebookGoogle\bin\DA_Access.dll
+D:\CIBERTEC\VI CICLO\PROYECTO INTEGRADOR\PIT\LoginFacebookGoogle\LoginFacebookGoogle\bin\Entidades.dll
+D:\CIBERTEC\VI CICLO\PROYECTO INTEGRADOR\PIT\LoginFacebookGoogle\LoginFacebookGoogle\bin\DA_Access.pdb
+D:\CIBERTEC\VI CICLO\PROYECTO INTEGRADOR\PIT\LoginFacebookGoogle\LoginFacebookGoogle\bin\Entidades.pdb

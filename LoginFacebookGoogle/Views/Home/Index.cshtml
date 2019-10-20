@@ -1,0 +1,43 @@
+﻿@{
+    
+        ViewBag.Title = "Home Page";
+        var listaProductos = ViewBag.listaProductos;
+}
+
+<DOCTYPE html>
+    <html>
+    <head>
+
+        <link href="~/Content/estilos.css" rel="stylesheet" @*id="bootstrap-css"*@>
+        <link href="~/Content/Estilos.css" rel="stylesheet" @*id="bootstrap-css"*@>
+        <script src="//maxcdn.bootstrapcdn.com/bootstrap/4.1.1/js/bootstrap.min.js"></script>
+        <script src="//cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+        
+    </head>
+    <body>
+
+        
+
+        @using (Html.BeginForm("ListarProductos", "Producto"))
+        {
+            foreach (var item in listaProductos)
+            {
+
+        <div class="bloque">
+            <a href="@Html.ActionLink(" ","Select", new { id = item.cod_Producto })">
+                <img class="imgprod" src="@item.imagen" />
+            </a><br />
+            <strong>Codigo: </strong> @item.cod_Producto<br />
+            <strong>Descripción: </strong> @item.Des_Producto<br />
+            <strong>Marca : </strong> @item.Marca<br />
+            <strong>Precio: </strong> @string.Format("{0:N2}", item.precio) <br />
+            <strong>Stock: </strong> @item.stock
+            @Html.ActionLink("Select", "Select", "Producto", new { id = item.cod_Producto }, new { @class = "btn btn-default" })
+            @Html.ActionLink(" ", "Select", "Producto", new { id = item.cod_Producto }, new { @class = "btn btn-default" })
+        </div>
+            }
+        }
+
+
+    </body>
+</html>

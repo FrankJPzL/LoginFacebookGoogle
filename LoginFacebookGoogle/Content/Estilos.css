@@ -1,0 +1,125 @@
+﻿* {
+   margin: 0;
+    padding: 0;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Open sans;
+    background-color: gray;
+    background-image: url("https://topesdegama.com/app/uploads/2017/02/Logo-de-Apple.jpg")
+}
+
+.abs-center {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    min-height: 80vh;
+    cursor: pointer;
+}
+
+.abs-centerrLogin {
+    /*display: block;
+    align-items: center;
+    justify-content: center;    
+    cursor: pointer;*/
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    min-height: 81vh;
+    cursor: pointer;
+    margin-left: inherit;
+}
+
+.FaceGooogle {
+    /*display: flex;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;*/
+    margin-left: 70px;
+    
+}
+
+#loginForm {
+    /*display: flex;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+    min-height: 80vh;*/
+}
+
+.abs-center2 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    min-height: 100vh;
+    cursor: pointer;
+    background-color: black;
+    margin-left: 25%;
+}
+
+.form {
+}
+
+.cont2 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    min-height: 100vh;
+    cursor: pointer;
+    background-color:red;
+}
+.was-validated{
+    display:flex;
+}
+
+
+.abs-centerr {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    min-height: 70vh;
+    cursor: pointer;
+    margin-left:inherit;
+}
+
+h2{
+   color:white;
+}
+
+
+.abs-centerActualizaDatos {
+    display: block;
+    align-items: center;
+    justify-content: center;
+    min-height: 60vh;
+    cursor: pointer;
+    /*margin-left: inherit;*/
+    margin-top:150px;
+    margin-left:380px;
+}
+
+p #Facebook {
+    background: blue;
+    text-decoration-color: white;
+    background-size: 100% 100%;
+    
+}
+
+p #Google {
+    background: #DED8D6;
+    color: black;
+}
+
+.bloque {
+   
+    width: 20%;
+    height: 380px;
+    float: left;
+    margin: 5%;
+    border: 5px solid;
+}
+
+

@@ -1,0 +1,9 @@
+D:\CIBERTEC\VI CICLO\PROYECTO INTEGRADOR\PIT\LoginFacebookGoogle\DA_Access\bin\Debug\DA_Access.dll
+D:\CIBERTEC\VI CICLO\PROYECTO INTEGRADOR\PIT\LoginFacebookGoogle\DA_Access\bin\Debug\DA_Access.pdb
+D:\CIBERTEC\VI CICLO\PROYECTO INTEGRADOR\PIT\LoginFacebookGoogle\DA_Access\bin\Debug\Entidades.dll
+D:\CIBERTEC\VI CICLO\PROYECTO INTEGRADOR\PIT\LoginFacebookGoogle\DA_Access\bin\Debug\Entidades.pdb
+D:\CIBERTEC\VI CICLO\PROYECTO INTEGRADOR\PIT\LoginFacebookGoogle\DA_Access\obj\Debug\DA_Access.csprojAssemblyReference.cache
+D:\CIBERTEC\VI CICLO\PROYECTO INTEGRADOR\PIT\LoginFacebookGoogle\DA_Access\obj\Debug\DA_Access.csproj.CoreCompileInputs.cache
+D:\CIBERTEC\VI CICLO\PROYECTO INTEGRADOR\PIT\LoginFacebookGoogle\DA_Access\obj\Debug\DA_Access.csproj.CopyComplete
+D:\CIBERTEC\VI CICLO\PROYECTO INTEGRADOR\PIT\LoginFacebookGoogle\DA_Access\obj\Debug\DA_Access.dll
+D:\CIBERTEC\VI CICLO\PROYECTO INTEGRADOR\PIT\LoginFacebookGoogle\DA_Access\obj\Debug\DA_Access.pdb
